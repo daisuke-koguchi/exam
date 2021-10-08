@@ -1,0 +1,26 @@
+.form{
+  border-collapse: separate;
+}
+.form tr{
+  height: 7rem;
+}
+.form th{
+  width: 150px;
+  text-align: right;
+}
+.text{
+  width: 480px;
+}
+.submit{
+  text-align: center;
+}
+.btn{
+  height:3rem;
+  color: white;
+  background-color:#008B8B;
+  padding:10px;
+  text-decoration:none;
+}
+.btn:hover{
+  opacity:0.5;
+}
